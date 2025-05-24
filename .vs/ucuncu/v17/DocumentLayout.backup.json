@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\ucuncu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F252BFF-82E0-4FC5-80FB-16423D8E2B61}|ucuncu\\ucuncu.csproj|c:\\users\\laptop d\u00FCnyasi\\source\\repos\\ucuncu\\ucuncu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F252BFF-82E0-4FC5-80FB-16423D8E2B61}|ucuncu\\ucuncu.csproj|solutionrelative:ucuncu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F252BFF-82E0-4FC5-80FB-16423D8E2B61}|ucuncu\\ucuncu.csproj|c:\\users\\laptop d\u00FCnyasi\\source\\repos\\ucuncu\\ucuncu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F252BFF-82E0-4FC5-80FB-16423D8E2B61}|ucuncu\\ucuncu.csproj|solutionrelative:ucuncu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\ucuncu\\ucuncu\\Form1.cs",
+              "RelativeDocumentMoniker": "ucuncu\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\ucuncu\\ucuncu\\Form1.cs",
+              "RelativeToolTip": "ucuncu\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:36:59.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\ucuncu\\ucuncu\\Form1.cs",
+              "RelativeDocumentMoniker": "ucuncu\\Form1.cs",
+              "ToolTip": "C:\\Users\\LAPTOP D\u00DCNYASI\\source\\repos\\ucuncu\\ucuncu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ucuncu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:24:21.71Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

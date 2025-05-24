@@ -1,0 +1,16 @@
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\bin\Debug\net8.0-windows\ucuncu.exe
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\bin\Debug\net8.0-windows\ucuncu.deps.json
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\bin\Debug\net8.0-windows\ucuncu.runtimeconfig.json
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\bin\Debug\net8.0-windows\ucuncu.dll
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\bin\Debug\net8.0-windows\ucuncu.pdb
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.Form1.resources
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.csproj.GenerateResource.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.AssemblyInfoInputs.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.AssemblyInfo.cs
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.dll
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\refint\ucuncu.dll
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.pdb
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ucuncu.genruntimeconfig.cache
+C:\Users\LAPTOP DÜNYASI\source\repos\ucuncu\ucuncu\obj\Debug\net8.0-windows\ref\ucuncu.dll
